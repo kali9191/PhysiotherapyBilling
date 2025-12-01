@@ -1,0 +1,17 @@
+# Visual Studio
+.vs
+.user
+.suo
+
+# Build results
+bin
+obj
+
+# Publish output
+[Bb]uild
+[Rr]elease
+[Dd]ebug
+
+# Misc
+.log
+.tmp
